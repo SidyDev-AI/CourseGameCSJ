@@ -1,1 +1,1 @@
-# CourseGameCSJ
+# Course Game CSJ
